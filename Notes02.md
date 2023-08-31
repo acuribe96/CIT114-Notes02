@@ -133,3 +133,6 @@ Tutorials available
 Provides simplified and automated workflows and wizards that make it easier to test and build with AWS services.
 Cost management
 System health monitoring
+
+**Question 2**
+>IaaS helps you avoid the expense and complexity of buying and managing your own physical servers and other datacenter infrastructure.
