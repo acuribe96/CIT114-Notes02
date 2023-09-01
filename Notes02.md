@@ -137,6 +137,7 @@ System health monitoring
 **Question 2**
 >IaaS helps you avoid the expense and complexity of buying and managing your own physical servers and other datacenter infrastructure.
 I find this interesting because before companies would have to order servers and have computer IT professionals come and install them which costed thousands. It also took long for everything to be set up, which there was a lot of downtime. Now that companies have their server on the cloud, it is a lot quicker to add and remove servers. They also only pay for what they use instead of purchasing all this hardware that will be sitting there.
+
 >The computer utility could become the basis of a new and important industry.
 This quote sticks out to me because it was said in 1961 by John McCarthy. A technology invention can either boom or become a failure. Computers weren't as popular as they are today.They were mainly popular in big industries. What was said in 1961 is now true because computers are very important to us today as we carry them as laptops or on our phones.
 
